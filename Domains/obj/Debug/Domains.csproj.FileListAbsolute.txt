@@ -1,0 +1,6 @@
+C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\UnitOfWorkTutorial\Domains\bin\Debug\Domains.dll
+C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\UnitOfWorkTutorial\Domains\bin\Debug\Domains.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\UnitOfWorkTutorial\Domains\obj\Debug\Domains.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\UnitOfWorkTutorial\Domains\obj\Debug\Domains.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\UnitOfWorkTutorial\Domains\obj\Debug\Domains.dll
+C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\UnitOfWorkTutorial\Domains\obj\Debug\Domains.pdb
